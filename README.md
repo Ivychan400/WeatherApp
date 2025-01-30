@@ -20,3 +20,6 @@ License: MIT
 サイトURL: [Weatherapp] (https://ivychan400.github.io/WeatherApp/weather.html)
 
 E-mailなど連絡先: w23002@.osfl.ac.jp
+　
+使用方法: 自分が旅行する首都の名前を Search Barに入れて検査したら　その首都の天気予報が出てきます。
+
